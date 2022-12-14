@@ -1,0 +1,100 @@
+id: a4919b1aa6274a8d8b411cd6bbe41950
+annotation_type: Segment
+revision: '00001'
+annotations:
+  e8e8508f4b0945adba005ee210a6cd40:
+    span:
+      start: 0
+      end: 58
+  bc35b2500ba34529902298b26e14a131:
+    span:
+      start: 60
+      end: 102
+  6e99e4d001e14c88ae209110c8775dae:
+    span:
+      start: 104
+      end: 131
+  ec21bd87aec240db8eb40a34f229a53c:
+    span:
+      start: 133
+      end: 352
+  239558b6e56c4d56b60921e929e3ac1f:
+    span:
+      start: 354
+      end: 426
+  3c7e4ea623ed47a687c300a832141b52:
+    span:
+      start: 428
+      end: 558
+  58624d163fbf48539b21dc1f202c604d:
+    span:
+      start: 560
+      end: 580
+  483b2f599c6945e2801b69a3db4c20c4:
+    span:
+      start: 582
+      end: 674
+  13094a149e494eaf854be63b82826e67:
+    span:
+      start: 676
+      end: 775
+  cc9459a08cf442cfb401db4e4842e7c9:
+    span:
+      start: 777
+      end: 885
+  f7ad73c75aa04678982d0b5a80583ce5:
+    span:
+      start: 887
+      end: 974
+  f2cc056c157c4571aac331f9580804bc:
+    span:
+      start: 976
+      end: 1091
+  ed0f7e812e534b37b93a3a18ba61325e:
+    span:
+      start: 1093
+      end: 1159
+  87d61a28bfb24f92be7f6ec3e0b04ca7:
+    span:
+      start: 1161
+      end: 1303
+  c26e066ee96a4b48961c996cd27aac05:
+    span:
+      start: 1305
+      end: 1366
+  59dca565fad24aa4af66f58d4ba77e62:
+    span:
+      start: 1368
+      end: 1383
+  684bebc7319c44e18120b89414066a6a:
+    span:
+      start: 1385
+      end: 1417
+  0fab049781244a29ba24ca88a72c0b76:
+    span:
+      start: 1419
+      end: 1451
+  9a440f2f031b496192f94c0af1bbc514:
+    span:
+      start: 1453
+      end: 1472
+  9d1b3aa185574967bb291a6e5e008b80:
+    span:
+      start: 1474
+      end: 1540
+  7d7ad4eabb1043099abde48f446474b9:
+    span:
+      start: 1542
+      end: 1576
+  f8576ad0bf5e405a9060d649a5093291:
+    span:
+      start: 1578
+      end: 1785
+  126cc6d53512425b9308e70ca87fd4bc:
+    span:
+      start: 1787
+      end: 1863
+  6bc1d02a4f7a4227b30bf3265dc122f1:
+    span:
+      start: 1865
+      end: 1995
